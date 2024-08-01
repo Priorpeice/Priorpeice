@@ -1,6 +1,9 @@
 # Je Hee, Lee 👋
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priorpeice&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ljh9459)](https://solved.ac/ljh9459/)
+
+# Contact
+Email: ljh945999@naver.com
 
 # 💪Skills
 ![Java](https://img.shields.io/badge/Java-EE2E24.svg?&style=for-the-badge&logo=Java&logoColor=black)
